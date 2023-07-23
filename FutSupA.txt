@@ -1,0 +1,7 @@
+12 jog12 guarda-redes
+13 jog13 medio
+14 jog14 defesa
+15 jog15 defesa
+16 jog16 medio
+17 jog17 avançado
+18 jog18 avançado

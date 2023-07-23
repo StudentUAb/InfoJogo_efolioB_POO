@@ -1,0 +1,11 @@
+1 jog1 guarda-redes
+2 jog2 defesa
+3 jog3 defesa
+4 jog4 defesa
+5 jog5 defesa
+6 jog6 medio
+7 jog7 medio
+8 jog8 medio
+9 jog9 medio
+10 jog10 avançado
+11 jog11 avançado
